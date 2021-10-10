@@ -1,0 +1,21 @@
+@font-face {
+    font-family: fontAnos50;
+    src: url('../font/COPASETI.TTF');
+  }
+  @font-face {
+    font-family: fontRetro01;
+    src: url('../font/GreatVictorian-Standard.otf');
+  }
+  @font-face {
+    font-family: fontRetro02;
+    src: url('../font/GreatVictorian-Swashed.otf');
+  }
+  @font-face {
+    font-family: fontRetro03;
+    src: url('../font/GreatVictorian-SwashedSC.otf');
+  }
+  @font-face {
+    font-family: fontBela;
+    src: url('../font/LITTLELO.TTF');
+  }
+      
